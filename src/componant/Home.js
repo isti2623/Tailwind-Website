@@ -1,10 +1,12 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Home = () => {
     return (
         <div>
-            <h2>This is Home</h2>
+            <div class="ml-80 mt-5">
+                <img src="https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg?w=1155&h=1528" alt="" />
+            </div>
         </div>
     );
 };
